@@ -6,4 +6,6 @@ Resources used while learning rust :-
 
 1) https://doc.rust-lang.org/stable/book/title-page.html
 
+2) cargo init --vcs none
+
 Thank you
